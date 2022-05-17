@@ -24,4 +24,9 @@ In total 5 input files are need, which are
 ## Commands
 To call the cVAE model, use following code in the shell:
 
-python 
+    python finalproject_cvae_arg.py -a ./anat.nii.gz -gm ./gm.nii.gz -wm ./wm.nii.gz -csf ./csf.nii.gz -f ./func.nii.gz -e epoch_num -b batch_size
+    
+where epoch_num is the number of epoch used to train the model and batch_size is the batch size used when loads datasets.
+    
+    
+
