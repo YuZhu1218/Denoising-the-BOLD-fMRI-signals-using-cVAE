@@ -37,5 +37,8 @@ Yu wrote:
     
 Jiayi wrote:
 
+    FinalProject_cVAE_toy_example.ipynb
+    
+
     
 
