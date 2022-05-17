@@ -31,5 +31,11 @@ where epoch_num is the number of epoch used to train the model and batch_size is
 ## Contributions
 Yu wrote:
 
+    FinalProject_VAE.ipynb
+    FinalProject_cVAE_Testing.ipynb
+    finalproject_cvae_arg.py
+    
+Jiayi wrote:
+
     
 
