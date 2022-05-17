@@ -22,4 +22,6 @@ In total 5 input files are need, which are
   The 'nat.nii.gz' is the anatomical  3d images of human whole brain. The 'func.nii,gz' is the functional MRI 3D images of human whole brain over time, which is 4D. 'gm.nii.gz', 'wm.nii.gz', and 'csf.nii.gz' are the probability maps of gray matter tissues, white matter tissues, and cerebrospinal fluid tissues of human whole brain with the same size of the anatomical images. 
   
 ## Commands
+To call the cVAE model, use following code in the shell:
 
+python 
