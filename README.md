@@ -28,5 +28,8 @@ To call the cVAE model, use following code in the shell:
     
 where epoch_num is the number of epoch used to train the model and batch_size is the batch size used when loads datasets.
     
+## Contributions
+Yu wrote:
+
     
 
